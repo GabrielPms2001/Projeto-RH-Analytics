@@ -124,8 +124,6 @@ Edite no script:
 ```python
 server = 'localhost'
 database = 'RH_Analytics'
-username = 'seu_usuario'
-password = 'sua_senha'
 ```
 
 ### 5. Executar o script
